@@ -1,0 +1,139 @@
+Q 1 - Which of the following is an advantage of using JavaScript?
+
+A - Less server interaction
+
+B - Immediate feedback to the visitors
+
+C - Increased interactivity
+
+D - All of the above.
+
+Answer : D
+Explanation
+All of the above options are correct.
+
+Q 2 - Which of the following is a valid type of function javascript supports?
+
+A - named function
+
+B - anonymous function
+
+C - Both of the above.
+
+D - None of the above.
+
+Answer : C
+Explanation
+A function in JavaScript can be either named or anonymous.
+
+Q 3 - Which built-in method returns the length of the string?
+
+A - length()
+
+B - size()
+
+C - index()
+
+D - None of the above.
+
+Answer : A
+Explanation
+length() method returns the length of the string.
+
+Q 4 - Which built-in method sorts the elements of an array?
+
+A - changeOrder(order)
+
+B - order()
+
+C - sort()
+
+D - None of the above.
+
+Answer : C
+Explanation
+sort() method sorts the elements of an array.
+
+Q 5 - Which of the following function of Boolean object returns the primitive value of the Boolean object?
+
+A - toSource()
+
+B - valueOf()
+
+C - toString()
+
+D - None of the above.
+
+Answer : B
+Explanation
+valueOf() − Returns the primitive value of the Boolean object.
+
+Q 6 - Which of the following function of String object splits a String object into an array of strings by separating the string into substrings?
+
+A - slice()
+
+B - split()
+
+C - replace()
+
+D - search()
+
+Answer : B
+Explanation
+split() − Splits a String object into an array of strings by separating the string into substrings.
+
+Q 7 - Which of the following function of String object returns the primitive value of the specified object.
+
+A - toLocaleUpperCase()
+
+B - toUpperCase()
+
+C - toString()
+
+D - valueOf()
+
+Answer : D
+Explanation
+valueOf() − Returns the primitive value of the specified object.
+
+Q 8 - Which of the following function of String object causes a string to be displayed in the specified color as if it were in a <font color='color'> tag?
+
+A - fixed()
+
+B - fontcolor()
+
+C - blink()
+
+D - bold()
+
+Answer : B
+Explanation
+fontcolor() − Causes a string to be displayed in the specified color as if it were in a <font color = 'color'> tag.
+
+Q 9 - Which of the following function of Array object calls a function for each element in the array?
+
+A - concat()
+
+B - every()
+
+C - filter()
+
+D - forEach()
+
+Answer : D
+Explanation
+forEach() − Calls a function for each element in the array.
+
+Q 10 - Which of the following function of Array object extracts a section of an array and returns a new array?
+
+A - reverse()
+
+B - shift()
+
+C - slice()
+
+D - some()
+
+Answer : C
+Explanation
+slice() − Extracts a section of an array and returns a new array.
