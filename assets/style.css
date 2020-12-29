@@ -147,11 +147,11 @@ a {
 
 }
 @media screen and (max-width: 500px) {
-    /* Resized content to fit 640px  */
+    /* Resized content to fit 500px  */
     body {
        width: 100%;
     }
-    /* Resized main-content to fit 640px  */
+    /* Resized main-content to fit 500px  */
     #wrapper {
     position: absolute;
     left:10%;
@@ -159,6 +159,13 @@ a {
     width:auto;
     }
     
-    
-    
+    #goBack{
+      position: relative;
+      left: 65%
+
+    }
+    #clear{
+        position: relative;
+        right:20%
+    }
     }
