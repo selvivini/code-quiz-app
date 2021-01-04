@@ -35,7 +35,7 @@ var questions = [
      var choicesUl = document.querySelector("#choicesUl");
      var startQuiz = document.querySelector("#startTime");
 
-     var timeleft = 75;
+     var timeleft = 76;
      var interval = 0;
     // penalty for wrong answer
      var penalty = 5;
