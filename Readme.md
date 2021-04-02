@@ -1,4 +1,5 @@
 # Home-work-Assignment
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ##  Javscript-code-quiz
 ### App Decription
 For this homework Assignment created a quiz app using html,css and Javscript.
